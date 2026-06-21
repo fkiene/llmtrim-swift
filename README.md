@@ -30,7 +30,7 @@ Or in `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/fkiene/llmtrim-swift", from: "0.2.1"),
+    .package(url: "https://github.com/fkiene/llmtrim-swift", from: "0.3.0"),
 ]
 ```
 
