@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "llmtrimFFI",
-            url: "https://github.com/fkiene/llmtrim/releases/download/v0.13.5/llmtrimFFI.xcframework.zip",
-            checksum: "b6d9f84eda0b4a54b513e33815cb1c28351367ee72da6a98968ad9de56eb5a17"
+            url: "https://github.com/fkiene/llmtrim/releases/download/v0.13.6/llmtrimFFI.xcframework.zip",
+            checksum: "98d8f090f7d299c860b42c28a8d5da8c6f3bba3b53a10b4ec247f80bf2095ddd"
         ),
         .target(
             name: "Llmtrim",
